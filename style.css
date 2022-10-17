@@ -1,0 +1,180 @@
+body{
+    margin: 0px;
+}
+
+#firstTitle{
+    text-align: center;
+    font-size: 100px;
+    color:royalblue;    
+    font-family:"Indie Flower", serif;
+    margin: 0px;
+    padding-top: 400px;
+}
+
+#firstText{
+    text-align: center;
+    font-size: 25px;
+    font-family:"Lucida Sans", serif;
+    color:royalblue;
+    margin:0px;
+    padding-bottom: 360px;
+}
+
+.myName{
+    background-color: lightgrey;
+}
+
+#hello{
+    text-align: center;
+    font-size: 80px;
+    font-family: "Lucida Sans", serif;
+    color:royalblue;
+}
+
+img{
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#secondText{
+    text-align: center;
+    color: grey;
+    font-family: "Lucida Sans", serif;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 150px;
+}
+
+#dots{
+    border:0;
+    text-align: center;
+    
+}
+
+#dots::before {
+    content: "• • • • •";
+    font-size: 150px;
+    color: grey;
+}
+
+#skills{
+    text-align: center;
+    color: royalblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 80px;
+    font-family:"Lucida Sans", serif;
+}
+
+#paragraph1IMG{
+    float:left;
+    width: 200px;
+    height: 200px;
+}
+
+#paragraph1Title{
+    font-size: 40px;
+    padding-top: 25px;
+    color: royalblue;
+    font-family:"Lucida Sans", serif;
+
+}
+
+#paragraph1Text{
+    font-size: 20px;
+    font-family:"Lucida Sans", serif;
+    padding-bottom: 155px;
+}
+
+#paragraph2IMG{
+    float:right;
+    width: 200px;
+    height: 200px;
+}
+
+#paragraph2Title{
+    font-size: 40px;
+    padding-top: 25px;
+    color: royalblue;
+    font-family:"Lucida Sans", serif;
+
+}
+
+#paragraph2Text{
+    font-size: 20px;
+    font-family:"Lucida Sans", serif;
+    padding-bottom: 100px;
+    
+}
+
+.mySkills{
+    background-color: lightgrey;
+}
+
+.contact{
+    background-color: white;
+}
+#contact{
+    text-align: center;
+    font-size: 50px;
+    color:royalblue;
+    font-family:"Lucida Sans", serif;
+    padding-top: 100px;   
+}
+
+#contactMe{
+    border: none;
+    border-radius: 25px;
+    color: white;
+    background-color: orange;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 24px;
+    font-family:"Lucida Sans", serif, bold;
+    margin-bottom: 100px;
+    border: 10px;
+}
+
+#contactMe:hover{
+    font-size: 30px;
+    margin-bottom: 93px;
+}
+
+#footer{
+    background-color: darkgrey; !important
+}
+
+#socials{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.socialsItem{
+    font-family:"Lucida Sans", serif, bold;
+    font-size: 25px;    
+    color:royalblue;
+    display: inline;
+    margin: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color:royalblue;
+}
+
+#copyright{
+    text-align: center;
+    font-family:"Lucida Sans", serif, bold;
+    font-size: 17px;
+    padding-bottom: 150px;
+}
